@@ -20,11 +20,11 @@ Jupyter Notebook / Google Colab – Interactive analysis
 📂 Project Structure
 
 Zomato-Data-Analysis/
-│── data/                     # Dataset files  
-│── notebooks/                # Jupyter/Colab notebooks  
-│── images/                   # Charts & visualizations  
-│── zomato_analysis.ipynb     # Main analysis notebook  
-│── README.md                 # Project documentation  
+│── data/ # Dataset files
+│── notebooks/ # Jupyter/Colab notebooks
+│── images/ # Charts & visualizations
+│── zomato_analysis.ipynb # Main analysis notebook
+│── README.md # Project documentation
 
 
 🔍 Key Insights
@@ -47,14 +47,14 @@ Add sentiment analysis on restaurant reviews.
 Predict restaurant ratings using machine learning models.
 Explore geographical distribution of restaurants.
 
-
+ 
 
 📜 License
 This project is licensed under the MIT License.
 
+ 
 
-
-
+ 
 
 
 🏁 Conclusion
@@ -68,5 +68,4 @@ Casual dining and quick bites dominate as the most preferred restaurant types, s
 Couples generally prefer mid-range price categories, suggesting that restaurants offering good value for money can attract more dining pairs.
 
 Overall, the study emphasizes the importance of data-driven decision making for restaurants and food delivery platforms. By understanding customer choices, businesses can tailor their services, optimize pricing strategies, and strengthen their market presence.
-
 
